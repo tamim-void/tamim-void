@@ -12,7 +12,6 @@
 
 <!-- Quick intro -->
 - 💬 Ask me about: <b>C Programming</b>, <b>Python</b>, <b>MySQL</b>  
-- 🚀 Current focus: building small, useful tools for event ops (registration, scheduling, analytics)  
 - 🎓 BSc in Information Technology & Management — Daffodil International University (CGPA 3.87)  
 - 🤝 Seeking: hands-on experience where tech meets operations, community, and impact
 
@@ -70,6 +69,5 @@ I’m a communicator–organizer who codes. I thrive at the intersection of peop
 
 ## 🤝 Connect
 <p align="left">
-  <a href="mailto:thossain1034@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/tamim-hossain-1047b4287/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/tamim.hossain.7509836"><img align="center" src="https://raw.githubusercontent.com/rahuldk
