@@ -57,14 +57,6 @@ I’m a communicator–organizer who codes. I thrive at the intersection of peop
 
 ---
 
-## 🔭 Featured Work
-- skills‑introduction‑to‑github — my first GitHub Skills course  
-  https://github.com/TaMiM1034/skills-introduction-to-github  
-- kjbb — sandbox experiments  
-  https://github.com/TaMiM1034/kjbb
-
-Have an idea where tech + organization can make a difference? I’m in.
-
 ---
 
 ## 📊 Activity & Stats
