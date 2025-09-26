@@ -69,4 +69,6 @@ I’m a communicator–organizer who codes. I thrive at the intersection of peop
 ## 🤝 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/tamim-hossain-1047b4287/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/tamim.hossain.7509836"><img align="center" src="https://raw.githubusercontent.com/rahuldk
+ <a href="https://www.facebook.com/tamim.hossain.7509836" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a>
+</p>
