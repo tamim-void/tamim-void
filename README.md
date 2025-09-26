@@ -11,7 +11,7 @@
 
 <!-- Quick intro -->
 - 💬 Ask me about: <b>C Programming</b>, <b>Python</b>, <b>MySQL</b>  
-- 🎓 BSc in Information Technology & Management — Daffodil International University (CGPA 3.87)  
+- 🎓 BSc in Information Technology & Management — Daffodil International University 
 - 🤝 Seeking: hands-on experience where tech meets operations, community, and impact
 
 ---
