@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/tamim-hossain-1047b4287/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tamim%20Hossain-0a66c2?logo=linkedin&logoColor=white"></a>
   <a href="https://www.canva.com/design/DAGzcIq5fuE/8xTT-hRg3h7D5hkfM_JnqQ/view?utm_content=DAGzcIq5fuE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0cc6781ba1"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-25a65b?logo=readme&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tamim-void&style=flat&color=grey">
-  <img alt="Open to opportunities" src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Part--time-ffb000">
 </p>
 
 <!-- Quick intro -->
